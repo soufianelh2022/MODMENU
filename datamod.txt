@@ -14,7 +14,7 @@
 
   
 "ironsource_inter":"DefaultInterstitial",
-"iron_appkey":"85460dcd",
+"iron_appkey":"1cf4107f5",
 "ironsource_banner":"DefaultBanner",
 "ironsource_reward":"DefaultReward",
  
@@ -31,21 +31,21 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"demo-native-content-yandex",
-"yandex_reward":"demo-rewarded-yandex",
-"yandex_appopen":"demo-appopenad-yandex",
+"yandex_banner":"R-M-4505685-1",
+"yandex_inter":"R-M-4505685-3",
+"yandex_native":"R-M-4505685-2",
+"yandex_reward":"R-M-4505685-4",
+"yandex_appopen":"R-M-4505685-5",
 
 "detail_first_button":"watch how to download ",
-"detail_second_button":"14MB",
-"detail_text_title":"",
-"detail_text1":"1) open file in chrome er and Extract to .zip file which ", 
+"detail_second_button":"11MB",
+"detail_text_title":"how to use the mod helper",
+"detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
  
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
+"banner_network_choice":"ironsource", 
+"interstisial_network_choice":"ironsource", 
+"reward_network_choice":"ironsource",
+"native_network_choice":"ironsource"
   
   
 
@@ -53,45 +53,46 @@
 },
  
  "my_data":[
-  {"title":"Game Mode",
-  "download_num":"58",
-  "visite_num":"21",
-  "photo":"https://th.bing.com/th/id/OIP.Zah1tzm1XIAcz8LIccxbAgHaEJ?rs=1&pid=ImgDetMain"},
-  {"title":"Deathmatch mods",
+  {"title":"standoff helper mod 4 ",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://i.ytimg.com/vi/5rFokJTJDtA/maxresdefault.jpg"},
-  {"title":"Capture the Flag",
-  "download_num":"48",
-  "visite_num":"21",
-  "photo":"https://gamebreath.com/wp-content/uploads/2020/10/standoff-2-download-970x570.jpg"},
-  {"title":"Arms Race ",
-  "download_num":"5858",
+  "photo":"https://getgadgets.in/wp-content/uploads/2021/05/b1bdbe3acddfaef02ed3a9b2670090ce.jpg"},
+  {"title":"standoff helper mod 2",
+  "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://i.pinimg.com/originals/49/57/89/495789e4cda904a36a3909de4f9ed1c2.jpg"},
-  {"title":"Weapons tips",
-  "download_num":"458",
+  "photo":"https://i.ytimg.com/vi/LNYuWZ9p3dk/maxresdefault.jpg"},
+  {"title":"standoff helper mod 3",
+  "download_num":"588",
   "visite_num":"241",
-  "photo":"https://i.ytimg.com/vi/KDeTyQEnETE/maxresdefault.jpg"},
-  {"title":"Communication and maps",
+  "photo":"https://papik.pro/grafic/uploads/posts/2023-10/1696587546_papik-pro-p-arti-standoff-2-52.jpg"},
+  {"title":"standoff helper mod 4",
+  "download_num":"558",
+  "visite_num":"41",
+  "photo":"https://gas-kvas.com/grafic/uploads/posts/2023-09/1695882312_gas-kvas-com-p-kartinki-standoff-45.jpg"},
+  {"title":"standoff helper mod 5",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://www.emulatorpc.com/wp-content/uploads/2021/11/Standoff-2-PC-Guide.jpg"},
-  {"title":"Progression and gameplay",
+  "photo":"https://howmanyplay.com/wp-content/uploads/2020/07/134313-min.jpg"},
+  {"title":"standoff helper mod 6",
   "download_num":"58458",
-  "visite_num":"2141",
-  "photo":"https://i.ytimg.com/vi/9n0RrZOjgcA/maxresdefault.jpg"},
-  {"title":"Defuse the Bomb",
+  "visite_num":"241",
+  "photo":"https://cdn.ksyru0-fusion.fds.api.mi-img.com/middle.community.micommunityru.bkt/a4a171800d75816cfa5943e18457f250"},
+  {"title":"standoff helper mod 1",
+  "download_num":"58458",
+  "visite_num":"241",
+  "photo":"http://klubmama.ru/uploads/posts/2022-08/1661733359_7-klubmama-ru-p-podelki-stendoff-2-foto-7.jpg"},
+  {"title":"standoff helper mod 8",
   "download_num":"5458",
-  "visite_num":"2141",
-  "photo":"https://i.ytimg.com/vi/ACh9t8KGAcY/maxresdefault.jpg"}
+  "visite_num":"41",
+  "photo":"https://proprikol.ru/wp-content/uploads/2021/01/kartinki-standoff-12.jpg"}
    ],
   
   "more_apps_info":[
   {"name":"app 1","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
- 
   {"name":"app 2","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app 3 ","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"app 3","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app 4","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app 5","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
    ]
  
 }
