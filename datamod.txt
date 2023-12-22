@@ -31,21 +31,21 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-4505685-1",
-"yandex_inter":"R-M-4505685-3",
-"yandex_native":"R-M-4505685-2",
-"yandex_reward":"R-M-4505685-4",
-"yandex_appopen":"R-M-4505685-5",
+"yandex_banner":"R-M-4491569-1",
+"yandex_inter":"R-M-4491569-2",
+"yandex_native":"R-M-4491569-3",
+"yandex_reward":"R-M-4491569-4",
+"yandex_appopen":"R-M-4491569-5",
 
 "detail_first_button":"watch how to download ",
 "detail_second_button":"11MB",
 "detail_text_title":"how to use the mod helper",
 "detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
  
-"banner_network_choice":"ironsource", 
-"interstisial_network_choice":"ironsource", 
-"reward_network_choice":"ironsource",
-"native_network_choice":"ironsource"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
   
 
