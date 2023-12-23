@@ -32,8 +32,8 @@
   
   
 "yandex_banner":"R-M-4491569-1",
-"yandex_inter":"R-M-4491569-2",
-"yandex_native":"R-M-4491569-3",
+"yandex_inter":"R-M-4491569-3",
+"yandex_native":"R-M-4491569-2",
 "yandex_reward":"R-M-4491569-4",
 "yandex_appopen":"R-M-4491569-5",
 
