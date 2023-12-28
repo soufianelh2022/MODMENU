@@ -4,7 +4,7 @@
 "unity_inter":"Interstitial_Android",
 "unity_banner":"Banner_Android",
 "unity_reward":"Rewarded_Android",
-"unity_gameid":"5082535",
+"unity_gameid":"5511653",
   
   
 "applovin_inter":"269d73adeea133fb",
@@ -42,10 +42,10 @@
 "detail_text_title":"how to use the mod helper",
 "detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
  
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
+"banner_network_choice":"unity", 
+"interstisial_network_choice":"unity", 
+"reward_network_choice":"unity",
+"native_network_choice":"unity"
   
   
 
