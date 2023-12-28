@@ -42,10 +42,10 @@
 "detail_text_title":"how to use the mod helper",
 "detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
  
-"banner_network_choice":"unity", 
+"banner_network_choice":"ironsource", 
 "interstisial_network_choice":"ironsource", 
-"reward_network_choice":"unity",
-"native_network_choice":"unity"
+"reward_network_choice":"ironsource",
+"native_network_choice":"ironsource"
   
   
 
