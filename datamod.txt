@@ -14,7 +14,7 @@
 
   
 "ironsource_inter":"DefaultInterstitial",
-"iron_appkey":"1d06ed86d",
+"iron_appkey":"1d904b80d",
 "ironsource_banner":"DefaultBanner",
 "ironsource_reward":"DefaultReward",
  
